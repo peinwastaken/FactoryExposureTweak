@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryExposureTweak", "FactoryExposureTweak.csproj", "{E250583B-F01B-4DF3-8160-58923EF6AEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E250583B-F01B-4DF3-8160-58923EF6AEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E250583B-F01B-4DF3-8160-58923EF6AEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E250583B-F01B-4DF3-8160-58923EF6AEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E250583B-F01B-4DF3-8160-58923EF6AEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C338865-E3A6-4128-9923-91C58E06657F}
+	EndGlobalSection
+EndGlobal
